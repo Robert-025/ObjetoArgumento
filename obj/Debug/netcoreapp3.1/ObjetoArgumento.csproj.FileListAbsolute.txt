@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.exe
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.deps.json
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.dll
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\bin\Debug\netcoreapp3.1\ObjetoArgumento.pdb
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.dll
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.pdb
+C:\Users\10\Documents\Curso\BackEnd\ObjetoArgumento\obj\Debug\netcoreapp3.1\ObjetoArgumento.genruntimeconfig.cache
